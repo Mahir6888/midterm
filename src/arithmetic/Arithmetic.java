@@ -20,6 +20,7 @@ public class Arithmetic
     /**
      * @param args the command line arguments
      */
+    Arithmetic arth =new Arithmetic();
     public static void main(String[] args) 
     {
        
